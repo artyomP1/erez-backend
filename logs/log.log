@@ -1,0 +1,329 @@
+
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+DEBUG - a@a.com, aaa, aaa
+DEBUG - auth.service - signup with email: a@a.com, username: aaa
+DEBUG - a@a.com, aaa, aaa
+DEBUG - auth.service - signup with email: a@a.com, username: aaa
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$OqucXyg.JTV9/Hjpj.7UYe56GvglLO/jBJNo1r9mC3qPcQcGRwFUO","username":"aaa","_id":"5de3922bbba6102df8ba31c3"}
+DEBUG - auth.service - login with email: a@a.com
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$OeP.I/chFUuq6VKAy7IrYekhCJMZZKVhwttC3P9AQg6a8DtLSlV8m","username":"aaa","_id":"5de3922bbba6102df8ba31c4"}
+DEBUG - auth.service - login with email: a@a.com
+INFO - Server is running on port: 3000
+DEBUG - admin@admin, admin, admin+ [object Object], Male, 625356000000, undefined+ undefined
+DEBUG - auth.service - signup with email: admin@admin, username: admin
+DEBUG - admin@admin, admin, admin+ [object Object], Male, 625356000000, undefined+ undefined
+DEBUG - auth.service - signup with email: admin@admin, username: admin
+DEBUG - auth.route - new account created: {"email":"admin@admin","password":"$2b$10$FXm1fPj4jUhX8S9z4T4EiuCHCANGAnufyxb31DRd.ktnMaBWskAAC","username":"admin","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":625356000000,"_id":"5de3961a668c656554ca2578"}
+DEBUG - auth.service - login with email: admin@admin
+DEBUG - auth.route - new account created: {"email":"admin@admin","password":"$2b$10$t1L/98On4c5SkKtd1rPHjuVJUPR/jrJdwuxPOgW/PFKbsYSeRr2gO","username":"admin","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":625356000000,"_id":"5de3961a668c656554ca2579"}
+DEBUG - auth.service - login with email: admin@admin
+DEBUG - admin@admin.com, admin, admin+ [object Object], Male, 629416800000, admin+ undefined
+DEBUG - auth.service - signup with email: admin@admin.com, username: admin
+DEBUG - admin@admin.com, admin, admin+ [object Object], Male, 629416800000, admin+ undefined
+DEBUG - auth.service - signup with email: admin@admin.com, username: admin
+DEBUG - auth.route - new account created: {"email":"admin@admin.com","password":"$2b$10$GaGPIFUkINzBy5KT5M7A8exSBL8kp/E1SrBTuqgv1D0Wwldv1BIkK","username":"admin","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":629416800000,"fullname":"admin","_id":"5de39818668c656554ca257b"}
+DEBUG - auth.service - login with email: admin@admin.com
+DEBUG - auth.route - new account created: {"email":"admin@admin.com","password":"$2b$10$W1/CJ/Vz6N6Zpo5kkInJgubqNMGFx26WZWmUJih4aBiZo1qBwgm4.","username":"admin","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":629416800000,"fullname":"admin","_id":"5de39818668c656554ca257a"}
+DEBUG - auth.service - login with email: admin@admin.com
+DEBUG - admin@admin.com, a, a+ [object Object], Male, 629416800000, a+ undefined
+DEBUG - auth.service - signup with email: admin@admin.com, username: a
+DEBUG - auth.route - new account created: {"email":"admin@admin.com","password":"$2b$10$nHOJYngNHrBNhkSy.yLXsO8ytNa5xiodi2QKJGhbVWVPNg3Dys5wy","username":"a","location":{"country":"a","city":"a"},"gender":"Male","birthDay":629416800000,"fullname":"a","_id":"5de3a224668c656554ca257c"}
+DEBUG - auth.service - login with email: admin@admin.com
+ERROR - [SIGNUP] Invalid email or password
+DEBUG - admin@admin.com, a, a+ [object Object], Male, 629416800000, a+ undefined
+DEBUG - auth.service - signup with email: admin@admin.com, username: a
+DEBUG - auth.route - new account created: {"email":"admin@admin.com","password":"$2b$10$usK3P4m779pcnq3WXgcZkuQ14jWvzzdBtYHLfMYeK0oiJiTf0sPNG","username":"a","location":{"country":"a","city":"a"},"gender":"Male","birthDay":629416800000,"fullname":"a","_id":"5de3a273668c656554ca257d"}
+DEBUG - auth.service - login with email: admin@admin.com
+ERROR - [SIGNUP] Invalid email or password
+DEBUG - admin@admin.com, a, a+ [object Object], Male, 629416800000, a+ undefined
+DEBUG - auth.service - signup with email: admin@admin.com, username: a
+DEBUG - auth.route - new account created: {"email":"admin@admin.com","password":"$2b$10$Lhy51BGjL14SPXr6Iify2OBTCpfScjGiESLS0gJ1HolUjXYCxEVs6","username":"a","location":{"country":"a","city":"a"},"gender":"Male","birthDay":629416800000,"fullname":"a","_id":"5de3a2c1668c656554ca257e"}
+DEBUG - auth.service - login with email: admin@admin.com
+ERROR - [SIGNUP] Invalid email or password
+DEBUG - michela @gmail.com, michela , 12345+ [object Object], Female, 471564000000, michela paolo+ undefined
+DEBUG - auth.service - signup with email: michela @gmail.com, username: michela 
+DEBUG - auth.route - new account created: {"email":"michela @gmail.com","password":"$2b$10$1qTf5gDLDZh/MAOkHbUFlelM.Ycrnv5DUbWZ/aS6WPOOMx263uXMm","username":"michela ","location":{"country":"Italy","city":"rome"},"gender":"Female","birthDay":471564000000,"fullname":"michela paolo","_id":"5de3a44a668c656554ca257f"}
+DEBUG - auth.service - login with email: michela @gmail.com
+DEBUG - michela@gmail.com, michela , 12345+ [object Object], Female, 471564000000, michela paolo+ undefined
+DEBUG - auth.service - signup with email: michela@gmail.com, username: michela 
+DEBUG - auth.route - new account created: {"email":"michela@gmail.com","password":"$2b$10$TbXAkMSb1Uqa75zRbpDK6OwzjPyyCug2VbHuBTR.F4MiGj.0ruP4S","username":"michela ","location":{"country":"Italy","city":"rome"},"gender":"Female","birthDay":471564000000,"fullname":"michela paolo","_id":"5de3a450668c656554ca2580"}
+DEBUG - auth.service - login with email: michela@gmail.com
+DEBUG - aaa, aa, aaaa+ [object Object], Female, 1577138400000, a+ undefined
+DEBUG - auth.service - signup with email: aaa, username: aa
+DEBUG - auth.route - new account created: {"email":"aaa","password":"$2b$10$QqqUP4hm7/d16PWOTkOQrO00kbKUTSnFExVmH7q8j9N6rlEq8B18y","username":"aa","location":{"country":"a","city":"a"},"gender":"Female","birthDay":1577138400000,"fullname":"a","_id":"5de3a885668c656554ca2581"}
+DEBUG - auth.service - login with email: aaa
+INFO - Server is running on port: 3000
+DEBUG - a, a, a+ [object Object], Male, 1577743200000, a+ undefined
+DEBUG - auth.service - signup with email: a, username: a
+DEBUG - auth.route - new account created: {"email":"a","password":"$2b$10$CPfRO1nXHk8qLkLMej4TjeC2TxycUZ1xC0QnRrBx56I2qP6yDvkW2","username":"a","location":{"country":"a","city":"a"},"gender":"Male","birthDay":1577743200000,"fullname":"a","_id":"5de3aced34858137cc30f5bb"}
+DEBUG - auth.service - login with email: a
+DEBUG - a@a.com, a, a+ [object Object], Male, 1577743200000, a+ undefined
+DEBUG - auth.service - signup with email: a@a.com, username: a
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$SVuJ8xDTCdfS4SOB.DZOG.Ixt/5bQ.h0wO86AM2eb.XLnZZqfhRvu","username":"a","location":{"country":"a","city":"a"},"gender":"Male","birthDay":1577743200000,"fullname":"a","_id":"5de3acf334858137cc30f5bc"}
+DEBUG - auth.service - login with email: a@a.com
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with email: undefined
+DEBUG - auth.service - login with email: undefined
+DEBUG - a, a, a+ [object Object], Female, 1576620000000, a+ undefined
+DEBUG - auth.service - signup with email: a, username: a
+DEBUG - auth.route - new account created: {"email":"a","password":"$2b$10$LRf9c..YHx.dc7WOEemEfeSsFDgqs4By0i0WAETzuMWR.6Udd7OKK","username":"a","location":{"country":"a","city":"a"},"gender":"Female","birthDay":1576620000000,"fullname":"a","_id":"5de3cfd94649d793d0c6b33f"}
+DEBUG - auth.service - login with email: a
+DEBUG - a@a, a, a+ [object Object], Female, 1576620000000, a+ undefined
+DEBUG - auth.service - signup with email: a@a, username: a
+DEBUG - auth.route - new account created: {"email":"a@a","password":"$2b$10$OLmbBy.kveQgwtbtzNDRfOs7Qs65bMeCW60o226OV2ikEMDhGzfLS","username":"a","location":{"country":"a","city":"a"},"gender":"Female","birthDay":1576620000000,"fullname":"a","_id":"5de3cfdc4649d793d0c6b340"}
+DEBUG - auth.service - login with email: a@a
+DEBUG - auth.service - login with email: undefined
+DEBUG - auth.service - login with email: undefined
+DEBUG - auth.service - login with email: undefined
+DEBUG - auth.service - login with email: undefined
+DEBUG - auth.service - login with email: undefined
+DEBUG - auth.service - login with email: undefined
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: admin
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: admin
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+INFO - no logged in user
+INFO - no logged in user
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+INFO - no logged in user
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+INFO - no logged in user
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: Michela
+DEBUG - auth.service - login with username: Michela
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: Michela
+DEBUG - auth.service - login with username: Michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - a@a.com, koki, 12345+ [object Object], Male, 1577138400000, koki ben david+ undefined
+DEBUG - auth.service - signup with email: a@a.com, username: koki
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$TR8sb7Hr7uuwno44bjNs1udl8gmAVfSZietdY4q2djGPxn6UociiW","username":"koki","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":1577138400000,"fullname":"koki ben david","_id":"5de500a297a73c9b58f35e98"}
+DEBUG - auth.service - login with username: koki
+DEBUG - a@a, a, 12345+ [object Object], undefined, undefined, a+ undefined
+DEBUG - auth.service - signup with email: a@a, username: a
+DEBUG - auth.route - new account created: {"email":"a@a","password":"$2b$10$71JujnYxQR3dzyTM/ByBcuVZweyj0YO0sjL1xs035tWduwW1PeQSW","username":"a","location":{"country":"a","city":"a"},"fullname":"a","_id":"5de5010497a73c9b58f35e99"}
+DEBUG - auth.service - login with username: a
+ERROR - [SIGNUP] Invalid username or password
+DEBUG - a@a, a, 12345+ [object Object], undefined, undefined, a+ undefined
+DEBUG - auth.service - signup with email: a@a, username: a
+DEBUG - auth.route - new account created: {"email":"a@a","password":"$2b$10$pSLAr/dGFW8I9KkhmeO7.uF8qEicEDMWx.E9FmU3E4Uxtv0b4aVym","username":"a","location":{"country":"a","city":"a"},"fullname":"a","_id":"5de5010c97a73c9b58f35e9a"}
+DEBUG - auth.service - login with username: a
+ERROR - [SIGNUP] Invalid username or password
+DEBUG - a@a.com, a, 12345+ [object Object], Male, 1576533600000, a+ undefined
+DEBUG - auth.service - signup with email: a@a.com, username: a
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$5cPt7dd8GLgNqIlAWrr23u9s1cM/GeMLDhS4k.TgPqlUTN2ZrIM5C","username":"a","location":{"country":"a","city":"a"},"gender":"Male","birthDay":1576533600000,"fullname":"a","_id":"5de5013d97a73c9b58f35e9b"}
+DEBUG - auth.service - login with username: a
+ERROR - [SIGNUP] Invalid username or password
+DEBUG - a@a.com, aaaaaaa, 12345+ [object Object], Male, 1576533600000, aaaaaaa+ undefined
+DEBUG - auth.service - signup with email: a@a.com, username: aaaaaaa
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$Y94QjuwhLhqdLTzbvYsg5u5w/NsLeUxbm3CwNvxeaxXulfhXdAHyy","username":"aaaaaaa","location":{"country":"aaaa","city":"a"},"gender":"Male","birthDay":1576533600000,"fullname":"aaaaaaa","_id":"5de5016697a73c9b58f35e9c"}
+DEBUG - auth.service - login with username: aaaaaaa
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: a
+DEBUG - auth.service - login with username: michella
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: admin
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: admin
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: admin
+DEBUG - saaaff, sdfgfds, sdfgfd+ [object Object], undefined, undefined, ssasdf+ undefined
+DEBUG - auth.service - signup with email: saaaff, username: sdfgfds
+DEBUG - auth.route - new account created: {"email":"saaaff","password":"$2b$10$ojevkWzj2Lkduu0TZ8Ot/.5RuIUOARN1swvsrhgDT8nUYKjAbtefi","username":"sdfgfds","location":{"country":"dfd","city":"fghgffd"},"fullname":"ssasdf","_id":"5de530d997525f7d8458d6d2"}
+DEBUG - auth.service - login with username: sdfgfds
+DEBUG - auth.service - login with username: admin
+DEBUG - auth.service - login with username: admin
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: admin
+DEBUG - auth.service - login with username: admin
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: admin
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - arty@gmail.com, koki, 12345+ [object Object], Male, 689983200000, koki ben david+ undefined
+DEBUG - auth.service - signup with email: arty@gmail.com, username: koki
+DEBUG - auth.route - new account created: {"email":"arty@gmail.com","password":"$2b$10$VUi73xOItfsPmITSPxw.L.TmIrr6WvivEiBzhxKDPuK.hQg.ooSDW","username":"koki","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":689983200000,"fullname":"koki ben david","_id":"5de60c49107039268c13fe23"}
+DEBUG - auth.service - login with username: koki
+DEBUG - auth.service - login with username: koki
+DEBUG - arty@gmail.com, arty, 12345+ [object Object], Male, 1560200400000, artyom+ undefined
+DEBUG - auth.service - signup with email: arty@gmail.com, username: arty
+DEBUG - auth.route - new account created: {"email":"arty@gmail.com","password":"$2b$10$sY1chRWi6pv1AQy/mPA4cO2N6SlRWcizy/3D6jcXmrN8nURHCk9Hq","username":"arty","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":1560200400000,"fullname":"artyom","_id":"5de60d9f107039268c13fe24"}
+DEBUG - auth.service - login with username: arty
+DEBUG - a@a.com, aaaa, 111111+ [object Object], Male, 1577052000000, aaa+ undefined
+DEBUG - auth.service - signup with email: a@a.com, username: aaaa
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$gbYSkRKoUO3N5h.dNJ.EKee/Q66Hpv6M6Vh6Uk44SU.9jCpKsCqqa","username":"aaaa","location":{"country":"aaaa","city":"aaaaaaa"},"gender":"Male","birthDay":1577052000000,"fullname":"aaa","_id":"5de6118f107039268c13fe25"}
+DEBUG - auth.service - login with username: aaaa
+DEBUG - a@a.com, aaaaa, 12345+ [object Object], Female, 1576447200000, aaaaa+ undefined
+DEBUG - auth.service - signup with email: a@a.com, username: aaaaa
+DEBUG - auth.route - new account created: {"email":"a@a.com","password":"$2b$10$Tu8/HfhcwWRAddw7B1lABufF41UMEvIYWjbgCVyXKVlgG6ork3M.i","username":"aaaaa","location":{"country":"aaaa","city":"aaaaa"},"gender":"Female","birthDay":1576447200000,"fullname":"aaaaa","_id":"5de61210107039268c13fe26"}
+DEBUG - auth.service - login with username: aaaaa
+DEBUG - aaa@aaa, aaaa, 122345+ [object Object], Male, 1575928800000, aaaa+ https://res.cloudinary.com/artyompogosov/image/upload/v1575359575/nghrrbqbjwsrjsxypodk.png
+DEBUG - auth.service - signup with email: aaa@aaa, username: aaaa
+DEBUG - auth.route - new account created: {"email":"aaa@aaa","password":"$2b$10$PzkuTGvJrpIfiC8aRFni0OM8J.kGscchHK5FpCyN3rTlvcpMo9xSK","username":"aaaa","location":{"country":"aaa","city":"aaa"},"gender":"Male","birthDay":1575928800000,"fullname":"aaaa","imgUrl":"https://res.cloudinary.com/artyompogosov/image/upload/v1575359575/nghrrbqbjwsrjsxypodk.png","_id":"5de6145e107039268c13fe27"}
+DEBUG - auth.service - login with username: aaaa
+ERROR - [SIGNUP] Invalid username or password
+DEBUG - art@gmail.com, arty, 12345+ [object Object], Male, 1576533600000, arty+ https://res.cloudinary.com/artyompogosov/image/upload/v1575359686/ix2pngnw9xdazt4rlooe.png
+DEBUG - auth.service - signup with email: art@gmail.com, username: arty
+DEBUG - auth.route - new account created: {"email":"art@gmail.com","password":"$2b$10$Fd1wrOVwDiCiPOQNyUFU.ewP4JiGKSOFJOOsFJpM8Jj6isKAMYXgW","username":"arty","location":{"country":"israel","city":"12345"},"gender":"Male","birthDay":1576533600000,"fullname":"arty","imgUrl":"https://res.cloudinary.com/artyompogosov/image/upload/v1575359686/ix2pngnw9xdazt4rlooe.png","_id":"5de614d2107039268c13fe28"}
+DEBUG - auth.service - login with username: arty
+DEBUG - aaa@aaa.com, aaaaa, 12345+ [object Object], Male, 1575928800000, aaaa+ https://res.cloudinary.com/artyompogosov/image/upload/v1575359754/oczusautolzw6cgneufo.png
+DEBUG - auth.service - signup with email: aaa@aaa.com, username: aaaaa
+DEBUG - auth.route - new account created: {"email":"aaa@aaa.com","password":"$2b$10$3kwlZLotD6fLSsQxw9dsHu/auJYTfIr9QlikruJBg35ikYeekRwTC","username":"aaaaa","location":{"country":"aaaa","city":"aaa"},"gender":"Male","birthDay":1575928800000,"fullname":"aaaa","imgUrl":"https://res.cloudinary.com/artyompogosov/image/upload/v1575359754/oczusautolzw6cgneufo.png","_id":"5de61519107039268c13fe29"}
+DEBUG - auth.service - login with username: aaaaa
+DEBUG - bbb@bbb, bbbbb, 12345+ [object Object], Male, 1576101600000, bbbb+ http://res.cloudinary.com/artyompogosov/image/upload/v1575359906/rvepazjhzspfi4dy0p4y.png
+DEBUG - auth.service - signup with email: bbb@bbb, username: bbbbb
+DEBUG - auth.route - new account created: {"email":"bbb@bbb","password":"$2b$10$2czw3GxSNAp7xl.goSpqG.AngTgMBTJEpJQM.e/RTOIfqEEA17m/i","username":"bbbbb","location":{"country":"aaaaa","city":"aaaa"},"gender":"Male","birthDay":1576101600000,"fullname":"bbbb","imgUrl":"http://res.cloudinary.com/artyompogosov/image/upload/v1575359906/rvepazjhzspfi4dy0p4y.png","_id":"5de615af107039268c13fe2a"}
+DEBUG - auth.service - login with username: bbbbb
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: admin
+INFO - Server is running on port: 3000
+INFO - no logged in user
+DEBUG - auth.service - login with username: michela
+DEBUG - Paola@gamil.com, paola, 12345+ [object Object], Female, 377301600000, Paola giuseppantonio+ http://res.cloudinary.com/artyompogosov/image/upload/v1575372526/nrxigufahyxclynzbk0g.jpg
+DEBUG - auth.service - signup with email: Paola@gamil.com, username: paola
+DEBUG - auth.route - new account created: {"email":"Paola@gamil.com","password":"$2b$10$8A8xEuHSY9Hn3LlwOeQuVOuRYb5YXNGXTOefJnpt0otUGo5EqLHmy","username":"paola","location":{"country":"spain","city":"madrid"},"gender":"Female","birthDay":377301600000,"fullname":"Paola giuseppantonio","imgUrl":"http://res.cloudinary.com/artyompogosov/image/upload/v1575372526/nrxigufahyxclynzbk0g.jpg","_id":"5de646f7e329c33b24617946"}
+DEBUG - auth.service - login with username: paola
+DEBUG - Sondre@gmail.com,  Sondre, 12345+ [object Object], Male, 471736800000,  Sondre+ http://res.cloudinary.com/artyompogosov/image/upload/v1575372709/trbisslwi2q6qz3vapbc.jpg
+DEBUG - auth.service - signup with email: Sondre@gmail.com, username:  Sondre
+DEBUG - auth.route - new account created: {"email":"Sondre@gmail.com","password":"$2b$10$rGtdZNI3Jp40S1JDTRDDjeGu35o9dy6dloXJEm7l/SvpJoe1TjQdS","username":" Sondre","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":471736800000,"fullname":" Sondre","imgUrl":"http://res.cloudinary.com/artyompogosov/image/upload/v1575372709/trbisslwi2q6qz3vapbc.jpg","_id":"5de647a8e329c33b24617947"}
+DEBUG - auth.service - login with username:  Sondre
+DEBUG - Thoralf@gmail.com, Thoralf, 12345+ [object Object], Male, 376696800000, Thoralf+ http://res.cloudinary.com/artyompogosov/image/upload/v1575372864/ja6el7tfx5ulwzuhxpvu.jpg
+DEBUG - auth.service - signup with email: Thoralf@gmail.com, username: Thoralf
+DEBUG - auth.route - new account created: {"email":"Thoralf@gmail.com","password":"$2b$10$epdg7CWFqUTmP4WFXYiPzOpt6jkbzt4oy5un/8h01M1k0MSEXuele","username":"Thoralf","location":{"country":"italy","city":"rome"},"gender":"Male","birthDay":376696800000,"fullname":"Thoralf","imgUrl":"http://res.cloudinary.com/artyompogosov/image/upload/v1575372864/ja6el7tfx5ulwzuhxpvu.jpg","_id":"5de64843e329c33b24617948"}
+DEBUG - auth.service - login with username: Thoralf
+DEBUG - Anna@gmail.com, Anna, 12345+ [object Object], Female, 535068000000, Anna+ http://res.cloudinary.com/artyompogosov/image/upload/v1575373351/n625zeiuga2sglwao20l.jpg
+DEBUG - auth.service - signup with email: Anna@gmail.com, username: Anna
+DEBUG - auth.route - new account created: {"email":"Anna@gmail.com","password":"$2b$10$mLkeNHF99dNNjehaqsW5F.VkYwouTUT9pE9Edd.zThq2rzVSVUJm.","username":"Anna","location":{"country":"French","city":"paris"},"gender":"Female","birthDay":535068000000,"fullname":"Anna","imgUrl":"http://res.cloudinary.com/artyompogosov/image/upload/v1575373351/n625zeiuga2sglwao20l.jpg","_id":"5de64a2ae329c33b24617949"}
+DEBUG - auth.service - login with username: Anna
+DEBUG - Ben@gmail.com, ben, 12345+ [object Object], Male, 692402400000, Ben+ http://res.cloudinary.com/artyompogosov/image/upload/v1575373566/tidosn4eoxnwu5p5wj9p.jpg
+DEBUG - auth.service - signup with email: Ben@gmail.com, username: ben
+DEBUG - auth.route - new account created: {"email":"Ben@gmail.com","password":"$2b$10$ewNatsYywE3kJt13oXMDResi0003/YtUAjWymaHcnpQe59e/b6XqS","username":"ben","location":{"country":"israel","city":"tel aviv"},"gender":"Male","birthDay":692402400000,"fullname":"Ben","imgUrl":"http://res.cloudinary.com/artyompogosov/image/upload/v1575373566/tidosn4eoxnwu5p5wj9p.jpg","_id":"5de64b03e329c33b2461794a"}
+DEBUG - auth.service - login with username: ben
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: nichela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+INFO - no logged in user
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: micela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3000
+INFO - Server is running on port: 3000
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: michela
+DEBUG - auth.service - login with username: nichela
+DEBUG - auth.service - login with username: michela
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030
+INFO - Server is running on port: 3030

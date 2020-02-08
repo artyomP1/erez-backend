@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4054c2f4-9a5b-40c0-a8e1-c2f58dfa0a42/resourceGroups/Erez-taxes/providers/Microsoft.Web/sites/Erez-taxes",
+    "appService.deploySubpath": ""
+}
